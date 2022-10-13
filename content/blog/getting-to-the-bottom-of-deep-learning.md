@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2021-06-09T23:00:00Z
 description = "When people are talking about AI, it is Deep Learning and its derivatives that are at the heart of the most exciting and smartest products, and Smartology’s SmartMatch SaaS platform has ‘smart’ as its namesake for this very reason."
-draft = true
 image = "/images/2020-three-quarters-4.png"
 tags = []
 title = "GETTING TO THE BOTTOM OF DEEP LEARNING."
