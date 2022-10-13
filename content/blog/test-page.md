@@ -3,10 +3,9 @@ author = []
 categories = []
 date = 2022-10-11T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
-title = "test page"
+title = "google thingumy"
 
 +++
 Hampered by regulatory attention and a delay to the implementation timeline by up to a year, Google said that the switch would not now happen until the second half of 2023.
