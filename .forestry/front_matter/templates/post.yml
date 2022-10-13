@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/getting-to-the-bottom-of-deep-learning.md
 - content/blog/test-page.md
